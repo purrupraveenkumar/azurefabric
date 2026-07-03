@@ -1,3 +1,3 @@
 # azurefabric
 fabric practice  
-  my name is pravee iam learning adf,adb in fabric
+  my name is praveen iam learning adf,adb in fabric
