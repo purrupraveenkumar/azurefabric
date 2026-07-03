@@ -1,0 +1,25 @@
+{
+	"name": "praveendaf02",
+	"properties": {
+		"globalParameters": {
+			"wait_time": {
+				"type": "int",
+				"value": 10
+			},
+			"spn": {
+				"type": "string",
+				"value": "kumar"
+			}
+		},
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "90056b48-0aa0-4600-bf42-b8d770b5eba4",
+		"tenantId": "9f682828-af87-4644-9f2a-525b70f0c866"
+	}
+}
